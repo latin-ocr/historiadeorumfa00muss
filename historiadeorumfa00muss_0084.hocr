@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiadeorumfa00muss_0084.png"; bbox 0 0 2232 3021; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 582 334 1937 2166">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 582 334 1937 2166">
+     <span class='ocr_line' id='line_1_1' title="bbox 582 334 1937 2166; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 582 334 1937 2166; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 783 1924 1937 2166">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 783 1924 1937 2166">
+     <span class='ocr_line' id='line_1_2' title="bbox 783 1924 1937 2166; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 783 1924 1937 2166; x_wconf 95' lang='lat' dir='ltr'><em>   </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 632 2154 1911 2318">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 632 2153 1911 2318">
+     <span class='ocr_line' id='line_1_3' title="bbox 632 2154 1911 2318; baseline -0.002 -75"><span class='ocrx_word' id='word_1_3' title='bbox 632 2184 850 2318; x_wconf 56' lang='grc' dir='ltr'><em>ΗΊἯΜ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1221 2171 1416 2240; x_wconf 57' lang='lat' dir='ltr'><em>§mm</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1451 2154 1911 2260; x_wconf 52' lang='lat' dir='ltr'><em>ffmfflsm</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 723 2284 758 2318; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 723 2284 758 2318; x_wconf 86' lang='grc' dir='ltr'><em>Ύ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 763 2248 1861 2342">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 763 2248 1861 2342">
+     <span class='ocr_line' id='line_1_5' title="bbox 763 2248 1861 2342; baseline -0.006 -25"><span class='ocrx_word' id='word_1_7' title='bbox 763 2259 1264 2341; x_wconf 63' lang='lat' dir='ltr'><em>inacrtamsterilem</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1284 2248 1646 2342; x_wconf 51' lang='lat' dir='ltr'><em>&amp;fertilitate</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1681 2251 1861 2315; x_wconf 53' lang='lat' dir='ltr'><em>beent</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

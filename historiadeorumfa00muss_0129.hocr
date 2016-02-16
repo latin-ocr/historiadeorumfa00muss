@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiadeorumfa00muss_0129.png"; bbox 0 0 2232 3021; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1563 171 1643 259">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1563 171 1643 259">
+     <span class='ocr_line' id='line_1_1' title="bbox 1563 171 1643 259; baseline -0.05 -20"><span class='ocrx_word' id='word_1_1' title='bbox 1563 171 1643 259; x_wconf 58' lang='grc' dir='ltr'>αις</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 320 429 1752 2192">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 320 429 1752 2192">
+     <span class='ocr_line' id='line_1_2' title="bbox 320 429 1752 2192"><span class='ocrx_word' id='word_1_2' title='bbox 320 429 1752 2192; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 505 344 1492 433">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 505 344 1492 433">
+     <span class='ocr_line' id='line_1_3' title="bbox 505 344 1492 433; baseline -0.011 -20"><span class='ocrx_word' id='word_1_3' title='bbox 505 349 710 433; x_wconf 60' lang='lat' dir='ltr'>Hsfflffi</span> <span class='ocrx_word' id='word_1_4' title='bbox 791 346 903 410; x_wconf 64' lang='lat' dir='ltr'>&#39;stu</span> <span class='ocrx_word' id='word_1_5' title='bbox 943 372 1020 406; x_wconf 73' lang='lat' dir='ltr'>ur</span> <span class='ocrx_word' id='word_1_6' title='bbox 1098 344 1446 431; x_wconf 52' lang='lat' dir='ltr'>Hatrnjkm,</span> <span class='ocrx_word' id='word_1_7' title='bbox 1487 397 1492 402; x_wconf 92' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1155 2301 1173 2337">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1155 2301 1173 2337">
+     <span class='ocr_line' id='line_1_4' title="bbox 1155 2301 1173 2337; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 1155 2301 1173 2337; x_wconf 72' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 404 2218 1113 2374">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 404 2218 1113 2374">
+     <span class='ocr_line' id='line_1_5' title="bbox 404 2218 1113 2374; baseline -0.006 -33"><span class='ocrx_word' id='word_1_9' title='bbox 404 2353 408 2359; x_wconf 22' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_10' title='bbox 443 2218 542 2345; x_wconf 51' lang='grc' dir='ltr'>ἒξ</span> <span class='ocrx_word' id='word_1_11' title='bbox 557 2278 757 2374; x_wconf 58' lang='grc' dir='ltr'>ἶῑηθιιαᾱ</span> <span class='ocrx_word' id='word_1_12' title='bbox 788 2278 1113 2368; x_wconf 39' lang='lat' dir='ltr'>volutum&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1261 2274 1697 2371">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1261 2274 1697 2371">
+     <span class='ocr_line' id='line_1_6' title="bbox 1261 2274 1697 2371; baseline -0.011 -36"><span class='ocrx_word' id='word_1_13' title='bbox 1261 2298 1399 2371; x_wconf 49' lang='lat' dir='ltr'>afflue</span> <span class='ocrx_word' id='word_1_14' title='bbox 1414 2274 1529 2335; x_wconf 72' lang='lat' dir='ltr'>asta</span> <span class='ocrx_word' id='word_1_15' title='bbox 1541 2297 1673 2369; x_wconf 54' lang='lat' dir='ltr'><em>rego„</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1686 2288 1697 2354; x_wconf 51' lang='grc' dir='ltr'>ξ’</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
